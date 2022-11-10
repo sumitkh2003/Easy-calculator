@@ -7,7 +7,6 @@ class Calculator{
     public:
         int x;
         Calculator(int a, int b, char oper)
-        // :firstvar(a), secvar(b), oper(oper)
         {
             switch(oper){
                 case '+':
