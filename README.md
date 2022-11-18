@@ -1,2 +1,2 @@
 # Easy-calculator
-That's my first project on C++!!!
+This is my first project on C++!!!
